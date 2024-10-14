@@ -4,7 +4,7 @@ import Negotiator from 'negotiator';
 import { NextRequest, NextResponse } from 'next/server';
 import { i18n } from './i18n.config';
 
-const unauthorizedRoutes = ['/auth/sign-in', '/auth/register', '/auth/forgot-password', '/auth/reset-password'];
+const unauthorizedRoutes = ['/auth/sign-in'];
 
 function getLocale(request: NextRequest): string | undefined {
   const negotiatorHeaders: Record<string, string> = {};

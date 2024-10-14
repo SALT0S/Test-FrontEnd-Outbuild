@@ -2,7 +2,11 @@
 
 ## Getting Started with Local Deployment Development
 
-First, run the development server:
+First install all dependencies and run the development server:
+
+```bash
+npm install
+```
 
 ```bash
 npm run dev
@@ -14,7 +18,11 @@ npm run dev
 
 ## Getting Started with Local Deployment Production
 
-First, run the production server:
+First install all dependencies and , run the production server:
+
+```bash
+npm install
+```
 
 ```bash
 npm run build

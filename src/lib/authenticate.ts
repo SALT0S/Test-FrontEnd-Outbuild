@@ -37,7 +37,7 @@ export async function login(state: FormState, formData: FormData): Promise<FormS
   }
 
   await setAuthCookie(response);
-  redirect('/dashboard');
+  redirect('/');
 }
 
 const setAuthCookie = async (response: Response) => {
