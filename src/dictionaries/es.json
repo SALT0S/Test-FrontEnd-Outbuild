@@ -1,0 +1,46 @@
+{
+  "SignIn": {
+    "sign_in": "Iniciar sesión",
+    "signing_in": "Iniciando sesión",
+    "email_address": "Correo electrónico",
+    "password": "Contraseña",
+    "invalid_login_credentials": "Credenciales de inicio de sesión inválidas.",
+    "couldnt_connect_to_the_server_please_try_again": "No se pudo conectar al servidor. Por favor, inténtalo de nuevo."
+  },
+  "Locales": {
+    "spanish_spain": "Español (España)",
+    "english_united_states": "Inglés (Estados Unidos)"
+  },
+  "Sidebar": {
+    "home": "Inicio",
+    "global_config": "Configuración global",
+    "toggle_theme": "Cambiar tema"
+  },
+  "DropdownMenu": {
+    "sign_out": "Cerrar sesión"
+  },
+  "Home": {
+    "Greeting": {
+      "good_morning": "Buenos días",
+      "good_afternoon": "Buenas tardes",
+      "good_evening": "Buenas noches"
+    },
+    "Comments": {
+      "comments": "Comentarios"
+    },
+    "Table": {
+      "id": "ID",
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "modal": "Modal",
+      "no_orders_found": "No se encontraron pedidos"
+    },
+    "Dialog": {
+      "close": "Cerrar"
+    }
+  },
+  "TablePagination": {
+    "previous": "Anterior",
+    "next": "Siguiente"
+  }
+}

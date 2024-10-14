@@ -1,0 +1,46 @@
+{
+  "SignIn": {
+    "sign_in": "Sign In",
+    "signing_in": "Signing In",
+    "email_address": "Email Address",
+    "password": "Password",
+    "invalid_login_credentials": "Invalid login credentials.",
+    "couldnt_connect_to_the_server_please_try_again": "Couldn't connect to the server. Please try again."
+  },
+  "Locales": {
+    "spanish_spain": "Spanish (Spain)",
+    "english_united_states": "English (United States)"
+  },
+  "Sidebar": {
+    "home": "Dashboard",
+    "global_config": "Global Config",
+    "toggle_theme": "Toggle Theme"
+  },
+  "DropdownMenu": {
+    "sign_out": "Sign Out"
+  },
+  "Home": {
+    "Greeting": {
+      "good_morning": "Good morning",
+      "good_afternoon": "Good afternoon",
+      "good_evening": "Good evening"
+    },
+    "Comments": {
+      "comments": "Comments"
+    },
+    "Table": {
+      "id": "ID",
+      "name": "Name",
+      "email": "Email",
+      "modal": "Modal",
+      "no_orders_found": "No orders found"
+    },
+    "Dialog": {
+      "close": "Close"
+    }
+  },
+  "TablePagination": {
+    "previous": "Previous",
+    "next": "Next"
+  }
+}

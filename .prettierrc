@@ -1,0 +1,21 @@
+{
+  "trailingComma": "es5",
+  "arrowParens": "always",
+  "singleQuote": true,
+  "jsxSingleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 120,
+  "semi": true,
+  "bracketSpacing": true,
+  "plugins": [
+    "prettier-plugin-organize-imports",
+    "prettier-plugin-tailwindcss"
+  ],
+  "tailwindFunctions": [
+    "clsx",
+    "tw"
+  ],
+  "tailwindPreserveWhitespace": true,
+  "tailwindPreserveDuplicates": true,
+  "tailwindConfig": "./tailwind.config.ts"
+}
